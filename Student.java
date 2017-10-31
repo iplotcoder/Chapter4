@@ -11,6 +11,8 @@ public class Student
     private int idNumber;
     private String name;
     private Student bestFriend;
+    private Pet pete;
+    private Hat h;
     /**
      * Constructor for objects of class Student
      */
@@ -28,11 +30,8 @@ public class Student
         return this.name;
     }
     
-    public void combineIDs() {
-        return this.idNumber + bestFriend.idNumber;
-    }
     
-    public student makeStudent()  {
+    public Student makeStudent()  {
         Student joe = new Student(this.idNumber, bestFriend.name);
         return joe;
     }
