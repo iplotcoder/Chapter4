@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=$tudent
+comment1.params=studentName
+comment1.target=$tudent(java.lang.String)
+comment2.params=
+comment2.target=void\ inputGrades()
+numComments=3
