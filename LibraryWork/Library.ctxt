@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Library\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nm\ size
+comment1.target=Library(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Library\r\n
+comment2.params=location\ b
+comment2.target=void\ addBook(int,\ Book)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
